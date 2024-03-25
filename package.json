@@ -23,7 +23,7 @@
     "greeks": "^1.0.0",
     "implied-volatility": "^1.0.0",
     "js-polynomial-regression": "^0.9.1",
-    "nodemon": "^2.0.6",
+    "nodemon": "^2.0.22",
     "path": "^0.12.7",
     "react": "^17.0.1",
     "react-bootstrap": "^1.4.0",
