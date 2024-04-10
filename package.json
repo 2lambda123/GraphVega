@@ -10,7 +10,7 @@
     "@testing-library/react": "^11.2.2",
     "@testing-library/user-event": "^12.6.0",
     "axios": "^1.6.0",
-    "bcrypt": "^5.0.0",
+    "bcrypt": "^5.1.1",
     "black-scholes": "^1.1.0",
     "body-parser": "^1.20.2",
     "bootstrap": "^4.5.3",
